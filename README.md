@@ -6,6 +6,8 @@ A FastAPI project template with frontend, authentication, authorization, CRUD, d
 
 [Documentation](https://benlau6.github.io/fastapi-fullstack)
 
+
+
 ## Features
 
 - [X] User system
@@ -72,4 +74,5 @@ docker-compose -f docker-compose.yml -f docker-compose.prod.yml up --build
 ## License
 
 This project is licensed under the terms of the MIT license.
+
 
